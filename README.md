@@ -1,7 +1,7 @@
 # An acrylic stacked case for Sofle V1/V1.1
 **Material**: Laser-cut 3mm acrylic sheets 
 
-- When using **3mm acrylic sheets**, ensure you get **M2 spacers**with lengths that match the number of layers in your case. For example, this case uses 4 layers, where 2 layers are mid ones.
+- When using **3mm acrylic sheets**, ensure you get **M2 spacers** with lengths that match the number of layers in your case. For example, this case uses 4 layers, where 2 layers are mid ones.
   Choose M2 spacers that are approximately 6mm in length.
   
 - However, to ensure safety and a proper fit—since most 3mm acrylic sheets are actually around 2.7–2.8mm—it's recommended to use 5mm spacers instead.

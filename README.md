@@ -16,3 +16,12 @@
 ![IMG_20241231_203754384](https://github.com/user-attachments/assets/7eda1d3d-6cc4-43db-8efe-39983ba86860)
 ![IMG_20241231_203711095](https://github.com/user-attachments/assets/fe0a5c67-806e-4524-96ee-9349876a3a8d)
 ![IMG_20241231_203910463](https://github.com/user-attachments/assets/23fdf748-de5a-4566-9443-1541235ffd49)
+### Suggested Bill of Materials  
+- **M2 Spacers (5-6mm)**:  
+  - Each side needs 6 spacers (12 in total).  
+  - Optional: Add 10 more (5-6mm 5 each side) spacers for extra stability.  
+- **M2 Screws (4-5mm)**:  
+  - At least 50 screws for assembly + 10 screws for OLEDs.  
+- **M2 Spacers (10-15mm)**:  
+  - 2 spacers per side (4 in total).  
+  - Length depends on how the MCU is socketed; shorter lengths may suffice.  
